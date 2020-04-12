@@ -15,10 +15,9 @@ theme = "hermit"
   # Metadata mostly used in document's head
   # description = ""
   # images = [""]
-  themeColor = "#494f5c"
+  themeColor = "#F7CAC9"
 
-  homeSubtitle = "A minimal and fast theme for Hugo."
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  homeSubtitle = "酱紫表'Blog"
   # bgImg = ""  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
