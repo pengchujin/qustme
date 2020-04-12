@@ -1,0 +1,4 @@
+baseURL = "https://blog.qust.me/"
+languageCode = "en-us"
+title = "酱紫表'blog"
+theme = "hermit"
