@@ -1,3 +1,9 @@
 [submodule "themes/hermit"]
 	path = themes/hermit
 	url = https://github.com/Track3/hermit
+[submodule "themes/hugo_theme_pickles"]
+	path = themes/hugo_theme_pickles
+	url = https://github.com/mismith0227/hugo_theme_pickles
+[submodule "themes/hugo-theme-cactus-plus"]
+	path = themes/hugo-theme-cactus-plus
+	url = https://github.com/nodejh/hugo-theme-cactus-plus.git
