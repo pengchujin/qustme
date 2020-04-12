@@ -1,53 +1,75 @@
 baseURL = "https://blog.qust.me/"
 languageCode = "en-us"
 title = "酱紫表'blog"
-theme = "hermit"
-
-[author]
-  name = "酱紫表"
+theme = "hugo-theme-cactus-plus"
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+	author = "pengchujin"
+	description = "Here to the fools who dream"
+	bio = "Do more, Do what i can't"
 
-  # Metadata mostly used in document's head
-  # description = ""
-  # images = [""]
-  themeColor = "#F7CAC9"
+	# twitter = "your_twitter_id"
+	# facebook = "your_facebook_id"
 
-  homeSubtitle = "酱紫表'Blog"
-  # bgImg = ""  # Homepage background-image URL
+	enableRSS = true
+	enableToc = true
 
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = "https://github.com/username/repository/commit/"
+	enableDisqus = true
+	disqusShortname = "your_disqus_short_name"
 
-  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
-  justifyContent = false  # Set "text-align: justify" to `.content`.
 
-  relatedPosts = false  # Add a related content section to all single posts page
+	enableSummary = true
+	# Set the value to true if use description in post front matter replace content summary
+	useDescriptionReplaceSummary = false
 
-  code_copy_button = true # Turn on/off the code-copy-button for code-fields
-  
-  # Add custom css
-  # customCSS = ["css/foo.css", "css/bar.css"]
 
-  # Social Icons
-  # Check https://github.com/Track3/hermit#social-icons for more info.
+	enableGoogleAnalytics = true
+	enableBaiduAnalytics = false
+	# Set the value to your baidu analysis code if you want to use baidu analytics
+	baiduAnalytics = 'your_baidu_analysis_code'
 
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/pengchujin"
+	enableTwitterCard = true
+	# The url for twitter card image, default is avatar.png in static/images directory
+	twitterCardImage = ""
 
-[menu]
+	# Add custom assets with their paths relative to the static folder
+	customCSS = []
+	customJS  = []
 
-  [[menu.main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 10
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
 
-  [[menu.main]]
-    name = "About"
-    url = "about/"
-    weight = 20
+	# Navigation links
+	home = ""
+	about = ""
+	archive = ""
+	subscribe = ""
+
+	olderPosts = ""
+	newerPosts = ""
+	copyright = ""
+
+	# show latest posts in single page
+	showLatestPosts = false
+	readMore = ""
+
+	# Share
+	enableShare = true
+	tweet = ""
+	share = ""
+
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "font-awesome"
+  # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+  socialIconStyle = ""
+
+
+# Add additional social link entries underneath
+[social]
+	facebook-square = "https://www.facebook.com/nodejh"
+	twitter-square = "https://www.twitter.com/nodejh"
+	github-square = "https://www.github.com/nodejh"
