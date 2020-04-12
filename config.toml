@@ -15,7 +15,7 @@ theme = "hugo-theme-cactus-plus"
 	enableToc = true
 
 	enableDisqus = true
-	disqusShortname = "disqus_lATQNm0RLI"
+	disqusShortname = "blog-qust-me"
 
 
 	enableSummary = true
