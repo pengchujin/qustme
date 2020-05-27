@@ -36,7 +36,7 @@ draft: false
 
   几乎所有主流的流媒体都已经支持 4k HDR 以及 Dolby atmos（杜比全景声）了，像 Netflix 、Disney+、Apple TV+、Amazon Prime Video 等，并且这两年开始几家自制的内容全都要求 4K HDR 了。而 HBO max 现在还是 HD （1080p）以及杜比5.1的音频，实在很难让人接受。
 
-* 网页换皮，APP 也太好用
+* 网页换皮，APP 也不太好用
 
   ![](https://oss.qust.me/img/20200527203510.jpg)
 
