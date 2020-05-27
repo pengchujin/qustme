@@ -42,7 +42,7 @@ draft: false
 
   ![](https://oss.qust.me/img/20200527203532.jpg)
 
-  无论是 HBO max 还是 HBO max 都没适配好高分辨率的网页，并且两者确实非常相像。App 端也没好到哪去，像 Android 客户端就还不支持放大比例全屏。
+  无论是 HBO max 还是 HBO now 都没适配好高分辨率的网页，并且两者确实非常相像。App 端也没好到哪去，像 Android 客户端就还不支持放大比例全屏。
 
 * 还有一些槽点
 
