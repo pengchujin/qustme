@@ -1,5 +1,5 @@
 ---
-title: "HBOMAX"
+title: "HBO max 换了皮的 HBO now"
 date: 2020-05-27T19:12:40+08:00
 draft: false
 ---
