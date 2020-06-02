@@ -18,7 +18,7 @@ Prime Video 是视频流媒体服务，也是 Amazon Prime 会员权益的一部
 
 #### 播放设备和子账户
 
-Prime Video 大部分自制内容 Amazon originals 也都是 **4K HDR** （绝大部分都是 HDR 10/HDR 10+，个别支持 Dolby Vision、Dolby Atmos ，Amazon 偏向选择 HDR10+ ），支持 HEVC/H.265， 码率与 Netflix 也差多都维持在平均 15-16 Mbps，非常清晰舒服了。
+Prime Video 大部分自制内容 Amazon originals 也都是 **4K HDR** 规格（绝大部分都是 HDR 10/HDR 10+，个别支持 Dolby Vision、Dolby Atmos ，Amazon 偏向选择 HDR10+ ），支持 HEVC/H.265， 码率与 Netflix 也差多都维持在平均 15-16 Mbps，非常清晰舒服了。
 
 ![](https://oss.qust.me/img/20200531225629.jpg)
 
@@ -70,11 +70,11 @@ Prime Video 同样支持子账户或者说 Profile，最多能够添加 **6 个�
 
 ## **一些技巧和问题**
 
-Prime Video 绝大部分自制剧都是有中文字幕的，不过很多地区非自治内容都只有该区语言的字幕，推荐依赖中文字幕的用户选择香港IP观看。
+Prime Video 绝大部分自制剧都是有中文字幕的，不过很多地区非自制内容都只有该区语言的字幕，推荐依赖中文字幕的用户选择香港IP观看。
 
 ![](https://oss.qust.me/img/20200602231840.jpg)
 
-Prime Video 的 X-Ray 功能我非常喜欢，非常方便的能了解到 剧情的时间刻度、高光场景、演员介绍、所有出现的音乐等等。（这个功能是 IMDB 提供，内容也都嵌入了 IMDB 评分）
+Prime Video 的 X-Ray 功能我非常喜欢，非常方便的能了解到 剧情的时间刻度、高光场景、演员介绍、所有出现的音乐等等。（这个功能是 IMDB 提供，Prime Video 内容也都嵌入了 IMDB 评分）
 
 ![](https://oss.qust.me/img/20200602232024.jpg)
 
