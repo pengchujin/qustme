@@ -38,6 +38,8 @@ Prime Video 同样支持子账户或者说 Profile，最多能够添加 **6 个�
 
 [Prime Video 上最佳的 50 部电影🎬](https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/)
 
+[Prime Video 豆瓣豆列](https://www.douban.com/doulist/117006102/?start=0&sort=seq&playable=0&sub_type=)
+
 ![](https://oss.qust.me/img/20200601004726.jpg)
 
 ## 如何订阅
@@ -64,7 +66,7 @@ Prime Video 同样支持子账户或者说 Profile，最多能够添加 **6 个�
 
 当然呢如果你选择新加坡区等，直接信用卡付款即可非常便捷。
 
-![image-20200602225219777](/Users/one/Library/Application Support/typora-user-images/image-20200602225219777.png)
+![](https://oss.qust.me/img/20200603013852.jpg)
 
 然后你就可以欣赏 Prime Video 的内容了。
 
