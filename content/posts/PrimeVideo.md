@@ -78,7 +78,7 @@ Prime Video 的 X-Ray 功能我非常喜欢，非常方便的能了解到 剧情
 
 ![](https://oss.qust.me/img/20200602232024.jpg)
 
-如果你想浏览其他区的内容推荐，不登陆账户切换到其它区 prime video 首页即可。像 [日区](https://www.amazon.co.jp/Prime-Video/b?node=3535604051)
+如果你想浏览其它独立区的内容推荐，不登陆账户切换到其它区 prime video 首页即可。像 [日区](https://www.amazon.co.jp/Prime-Video/b?node=3535604051)
 
 ![](https://oss.qust.me/img/20200602232520.jpg)
 
