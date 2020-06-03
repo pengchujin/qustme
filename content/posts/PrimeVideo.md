@@ -84,6 +84,20 @@ Prime Video 的 X-Ray 功能我非常喜欢，非常方便的能了解到 剧情
 
 ![](https://oss.qust.me/img/20200602232520.jpg)
 
+## Amazon Music
+
+印度的 Amazon Prime 套餐里面其实还包括有 Amazon Music 的音乐流媒体服务，除了界面操作比较复古以外，我个人觉得还不错：曲库比较全、有歌词、支持 Alexa 语音助手、直连也能够播放、可以选择语言喜好，不喜欢印度歌曲推荐的第一次进入喜好选择英文即可。
+
+![](https://oss.qust.me/img/20200603125748.jpg)
+
+**如果想启动 Amazon Music 你得在你的账户里修改默认地址为印度的地址** 在 Amazon 主页点击地址（Your Address）修改地址为印度， 可以使用**[这个网站生成印度地址](https://www.fakeaddressgenerator.com/World_more/India_address_generator)**。
+
+![](https://oss.qust.me/img/20200603130722.jpg)
+
+![](https://oss.qust.me/img/20200603131040.jpg)
+
+
+
 ## 总结
 
-Prime Video 在内容和客户端使用体验上虽然都和 Netflix 有些差距，但相比其它流媒体它还是非常适合大陆用户订阅，特别是性价比极高，订阅付款也非常方便。Amazon 的自制剧一直是非常高的水准，看上几部也都能值回票价，更有各地区特色内容加持，我个人还是非常推荐大家订阅的。
+Prime Video 在内容和客户端使用体验上虽然都和 Netflix 有些差距，但相比其它流媒体它还是非常适合大陆用户订阅，特别是性价比极高，订阅付款也非常方便。Amazon 的自制剧一直是非常高的水准，看上几部也都能值回票价，更有各地区特色内容加持，还有附赠的 Amazon Music 音乐流媒体我个人还是非常推荐大家订阅的。
