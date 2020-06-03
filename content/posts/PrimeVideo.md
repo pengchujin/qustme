@@ -90,7 +90,7 @@ Prime Video 的 X-Ray 功能我非常喜欢，非常方便的能了解到 剧情
 
 ![](https://oss.qust.me/img/20200603125748.jpg)
 
-**如果想启动 Amazon Music 你得在你的账户里修改默认地址为印度的地址** 在 Amazon 主页点击地址（Your Address）修改地址为印度， 可以使用**[这个网站生成印度地址](https://www.fakeaddressgenerator.com/World_more/India_address_generator)**。
+**如果想启动 Amazon Music 你得在你的账户里修改默认地址为印度的地址** 在 Amazon 主页点击地址（Your Address）修改地址为印度， 可以使用[**这个网站生成印度地址**](https://www.fakeaddressgenerator.com/World_more/India_address_generator)。
 
 ![](https://oss.qust.me/img/20200603130722.jpg)
 
