@@ -24,6 +24,7 @@ theme = "hugo-theme-cactus-plus"
 
 
 	enableGoogleAnalytics = true
+  googleAnalytics = "UA-168348943-1"
 	enableBaiduAnalytics = false
 	# Set the value to your baidu analysis code if you want to use baidu analytics
 	baiduAnalytics = 'your_baidu_analysis_code'
