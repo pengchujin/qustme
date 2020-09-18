@@ -10,9 +10,9 @@ draft: false
 
 ![](https://oss.qust.me/img/20200918104212.png)
 
-* 国内下载链接🔗：http://www.firefox.com.cn/ 
+* [国内下载链接🔗](https://www.firefox.com.cn/)：https://www.firefox.com.cn/
 
-* 国际下载链接🔗: https://www.mozilla.org/en-US/firefox/new/
+* [国际下载链接🔗](https://www.mozilla.org/en-US/firefox/new/): https://www.mozilla.org/en-US/firefox/new/
 
 使用 Firefox 是因为 Firefox 设置配置代理比较完备方便，用浏览器也不会直接影响系统网络。我个人比较推荐。
 
