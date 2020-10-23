@@ -1,7 +1,7 @@
 ---
 title: "Apple 美区家庭组开车指南，开通 Apple One 教程"
 date: 2020-09-20T12:40:02+08:00
-draft: ture
+draft: true
 ---
 
 苹果的 App Store、Apple Music、Apple TV+、iCloud 等服务都是分区的，不同区之间的差距很大 ：像 App Store 很多应用中国区就没有（反过来同理）、iCloud 中国区则是由云上贵州运营的、Apple Music 的曲库差距也很大。还有很多服务像：Apple TV+、Apple News+、Arcade 以及即将上线的 Apple Fitness+ 中国区账户则都享受不到。
