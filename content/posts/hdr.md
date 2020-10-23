@@ -1,5 +1,5 @@
 ---
-title: "Hdr"
+title: "B 站和 HDR"
 date: 2020-09-28T18:26:25+08:00
 draft: false
 ---
