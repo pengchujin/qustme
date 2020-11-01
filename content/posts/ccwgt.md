@@ -5,7 +5,7 @@ draft: false
 ---
 # 	Chromecast with Google TV 上手体验
 
-今年各家在电视盒子方面都没什么动作：苹果仍旧是 2017 年发布的 Apple TV 4k；小米和 Amazon 都是在今年只更新了 1080p 的产品 Mi TV Stick 和 Fire TV 的 1080p 带语音控制版本。说起 Google 家的电视盒子上次还得是 2014 年的 Nexus Player，时隔六年后 Google 终于更新了自家的电视盒子产品并且改名为：Chromecast with Google TV，支持 4k 60Hz 、Dolby Vision 和 Dolby Atmos 定价也还不错 50 刀。在官网下单反复被砍的情况，我最终选择了淘宝代购的现货，用了两天后今天分享下我的使用体验。<!--more-->
+今年各家在电视盒子方面都没什么动作：苹果仍旧是 2017 年发布的 Apple TV 4k；小米和 Amazon 都是在今年只更新了 1080p 的产品 Mi TV Stick 和 Fire TV 的 1080p 带语音控制版本。说起 Google 家的电视盒子上次还是 2014 年的 Nexus Player，时隔六年后 Google 终于更新了自家的电视盒子产品并且改名为：Chromecast with Google TV，支持 4k 60Hz 、Dolby Vision 和 Dolby Atmos 定价也还不错 50 刀。在官网下单反复被砍的情况，我最终选择了淘宝代购的现货，用了两天后今天分享下我的使用体验。<!--more-->
 
 ## 出色的硬件配置
 
@@ -96,4 +96,4 @@ draft: false
 
 ## 值不值得买
 
-如果你平时使用更多的是 Google 系得产品，那么这款 Google Chromcast with Google TV 无疑很适合你。单论产品性价比来说它没现在打折卖 30 刀的 Fire TV 4k 划算。Google Chromcast with Google TV 有支持中文、USB C、Google 账户等优势，但 Fire TV 已经支持了 Apple TV 兼容和系统稳定性更占优势打折，售价也更便宜。如果未来 Google 能更新下系统修正这些问题，我才会真正推荐大家选购 Google Chromcast with Google TV 这款产品。
+如果你平时使用更多的是 Google 系的产品，那么这款 Google Chromcast with Google TV 无疑很适合你。单论产品性价比来说它没现在打折卖 30 刀的 Fire TV 4k 划算。Google Chromcast with Google TV 有支持中文、USB C、Google 账户等优势，但 Fire TV 已经支持了 Apple TV 兼容和系统稳定性更占优势打折，售价也更便宜。如果未来 Google 能更新下系统修正这些问题，我才会真正推荐大家选购 Google Chromcast with Google TV 这款产品。
