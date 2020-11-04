@@ -6,7 +6,7 @@ draft: true
 
 ### 观看内容和付费订阅有关系吗？
 
-Netflix 是最🐂🍺的视频流媒体，还没有之一，这个自然不用多说。对于对 Netflix 订阅和价格之类还不够了解的朋友我这里简单介绍下：**Netflix 不同国家地区的订阅价格是不同的，但是不会影响你观看的内容，你看的内容由你的IP地址决定。** 所以对于中国这个世界上唯三没有覆盖 Netflix 的同胞来说，选择一个便宜的地区订阅 Netflix 然后选择有中文字幕的地区IP观看是非常划算的一件事（总之**选便宜**的区就对了，不会影响挂看内容和语言）。更全的价格可以查看此 [google doc](https://docs.google.com/spreadsheets/d/1usSHC2Vrb4KRk3WCu_2LLhls5qtBHHRuh_9ESeXI3nw/edit#gid=1088253101) 。
+Netflix 是最🐂🍺的视频流媒体，还没有之一，这个自然不用多说。对于对 Netflix 订阅和价格之类还不够了解的朋友我这里简单介绍下：**Netflix 不同国家地区的订阅价格是不同的，但是不会影响你观看的内容，你看的内容由你的IP地址决定。** 所以对于中国这个世界上唯三没有覆盖 Netflix 的同胞来说，选择一个便宜的地区订阅 Netflix 然后选择有中文字幕的地区IP观看是非常划算的一件事（总之**选便宜**的区就对了，不会影响挂看内容和语言）。更全的价格可以查看此 [google doc](https://docs.google.com/spreadsheets/d/1usSHC2Vrb4KRk3WCu_2LLhls5qtBHHRuh_9ESeXI3nw/edit#gid=1088253101) 。<--!more-->
 
 ![](https://oss.qust.me/img/20200527005035.png)
 
