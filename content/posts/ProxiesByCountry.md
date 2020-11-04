@@ -4,11 +4,11 @@ date: 2020-09-18T10:30:01+08:00
 draft: false
 ---
 
+![](https://oss.qust.me/img/20200918104212.png)
+
 无论是注册 Netflix、Spotify、或是 Tidal音乐 等等，我们常常需要使用不同国家的网络IP来注册，或临时使用。即使我们订阅了一些梯子服务商，他们所提供的国家代理也常常不能满足需求。很多国家的 VPS 很难注册，或收费较高。这里我介绍下我的使用方式，免费、也相对简单、希望对你有所帮助。<!--more-->
 
 ## 下载安装 Firefox 浏览器
-
-![](https://oss.qust.me/img/20200918104212.png)
 
 * [国内下载链接🔗](https://www.firefox.com.cn/): https://www.firefox.com.cn/
 

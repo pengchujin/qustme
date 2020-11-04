@@ -4,6 +4,8 @@ date: 2020-09-28T18:26:25+08:00
 draft: false
 ---
 
+![来源：Verge](https://oss.qust.me/img/679b0013-c9c3-40b2-878d-beeb6065565c.png)
+
 近几年，HDR 这个技术频频出现在手机厂商的发布会上。
 
 2018 年 iPhone X 发布成为苹果首款支持 HDR 的手机，此后每一款 iPhone HDR 都没有缺席。我刚去小米官网看了下，价格仅 999 元的 Redmi 10x 也已经支持了蛮高规格的 HDR。

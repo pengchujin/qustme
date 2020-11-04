@@ -4,7 +4,8 @@ date: 2020-05-30T21:05:52+08:00
 draft: false
 ---
 
-### Prime Video 订阅指南 比 Netflix 更有性价比
+![](https://oss.qust.me/img/20200531171059.jpg)
+
 
 Netflix 是全球第一的视频流媒体，这一点毋庸置疑；排在第二的自然是这篇文章想介绍的 Prime Video<!--more-->（这里剔除了中国的三家 爱奇艺、优酷、腾讯）。
 

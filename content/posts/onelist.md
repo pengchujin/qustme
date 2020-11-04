@@ -3,10 +3,10 @@ title: "拿 OneDrive 做共享云，方便速度还贼快"
 date: 2020-10-23T23:22:10+08:00
 draft: false
 ---
+![](https://oss.qust.me/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202020-10-23%20231252.png)
+此前有看到过拿 OneDrive 做共享云的，速度很快，也不走自己服务器流量。最近开了 Office 365 车，正好想到此事。看了几个 OneDrive 共享的程序，感觉配置有点复杂，为了方便自己折腾也或许能给别人提供便利就打包了个 Caddy 2 和 OneList go 版本的 Docker。<!--more-->
 
-此前有看到过拿 OneDrive 做共享云的，速度很快，也不走自己服务器流量。最近开了 Office 365 车，正好想到此事。看了几个 OneDrive 共享的程序，感觉配置有点复杂，为了方便自己折腾也或许能给别人提供便利就打包了个 Caddy 2 和 OneList go 版本的 Docker。
-
-**cloud.qust.me 可以看看我的共享 OneDrive，分享文件下载十分方便。** <!--more-->
+**cloud.qust.me 可以看看我的共享 OneDrive，分享文件下载十分方便。** 
 
 ![](https://oss.qust.me/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202020-10-23%20231252.png)
 

@@ -4,6 +4,8 @@ date: 2020-05-23T11:00:26+08:00
 draft: false
 ---
 
+![](https://oss.qust.me/img/20200523120019.jpg)
+
 斐讯 n1 做旁路由，碰见部分路由器做主路由例如：小米、华为、linksys 等经常会碰见配置好旁路由设置无法上网，或者国内网络无法打开，或国内网络很慢。<!--more-->
 
 参考了恩山 这个帖子 [N1盒子] [【终极指南】关于N1做旁路由添加 iptables 自定义防火墙规则的见解](https://www.right.com.cn/FORUM/thread-2983767-1-1.html)
