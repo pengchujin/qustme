@@ -5,15 +5,15 @@ draft: false
 ---
 # 	Chromecast with Google TV 上手体验
 
-今年各家在电视盒子方面都没什么动作：苹果仍旧是 2017 年发布的 Apple TV 4k；小米和 Amazon 都是在今年只更新了 1080p 的产品 Mi TV Stick 和 Fire TV 的 1080p 带语音控制版本。说起 Google 家的电视盒子上次还是 2014 年的 Nexus Player，时隔六年后 Google 终于更新了自家的电视盒子产品并且改名为：Chromecast with Google TV，支持 4k 60Hz 、Dolby Vision 和 Dolby Atmos 定价也还不错 50 刀。在官网下单反复被砍的情况，我最终选择了淘宝代购的现货，用了两天后今天分享下我的使用体验。<!--more-->
+今年各家在电视盒子方面都没什么动作：苹果仍旧是 2017 年发布的 Apple TV 4k；小米和 Amazon 都是在今年只更新了 1080p 的产品 Mi TV Stick 和 Fire TV 的 1080p 带语音控制版本。说起 Google 家的电视盒子上次还是 2014 年的 Nexus Player，时隔六年后 Google 终于更新了自家的电视盒子产品并且改名为：Chromecast with Google TV，支持 4k 60Hz 、Dolby Vision 和 Dolby Atmos 定价也还不错 50 刀。在官网下单反复被砍的情况，我最终选择了淘宝代购的现货，用了两天后今天分享下我的使用体验。
 
 ## 出色的硬件配置
 
-![](https://oss.qust.me/img/chromecast-with-google-tv-header-scaled.jpg)
+![](https://oss.qust.me/img/chromecast-with-google-tv-header-scaled.jpg)<!--more-->
 
 我买到的是白色版本，蓝色和粉色版本虽然更好看但目前缺货严重，想拿到手可能得等比较久。
 
-![](C:\Users\peng\Pictures\IMG_20201101_124609.jpg)
+![](https://oss.qust.me/img/IMG_20201101_124609.jpg)
 
 包装不大里面就盒子主体、遥控器、以及普通的 type c 充电器。和以前的 Chromecast 最大不同是这次配备了遥控器。
 
