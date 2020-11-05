@@ -6,6 +6,26 @@ theme = "LoveIt"
 [params]
   #  LoveIt 主题版本
   version = "0.2.X"
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
+    pre = ""
+    # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
+    post = ""
+    name = "文章"
+    url = "/posts/"
+    # 当你将鼠标悬停在此菜单链接上时, 将显示的标题
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "关于"
+    url = "/about/"
+    title = ""
+    weight = 2
   # 网站描述
   description = "Do More，Do What I Can't"
   # 网站关键词
@@ -501,7 +521,7 @@ theme = "LoveIt"
 # Permalinks 配置
 [Permalinks]
   # posts = ":year/:month/:filename"
-  posts = ":filename"
+  posts = "posts/:filename"
 
 # 隐私信息配置
 [privacy]
