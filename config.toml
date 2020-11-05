@@ -26,6 +26,14 @@ theme = "LoveIt"
     url = "/about/"
     title = ""
     weight = 2
+  [[menu.main]]
+    identifier = "Cloud"
+    pre = ""
+    post = ""
+    name = "云盘"
+    url = "https://cloud.qust.me"
+    title = ""
+    weight = 3
   # 网站描述
   description = "Do More，Do What I Can't"
   # 网站关键词
