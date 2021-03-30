@@ -106,4 +106,7 @@ draft: false
 
 ## 总结
 
+**删除退出 ClashX Pro 后如果不能上网得恢复网络设置**：https://jingyan.baidu.com/article/020278113fc2511bcc9ce5e8.html
+
 ClashX Pro 完全免费这点真的太棒了，使用软件作为网关接管网络体验真的非常非常棒，建议你也试试。
+
