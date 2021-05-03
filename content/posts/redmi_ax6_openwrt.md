@@ -233,7 +233,7 @@ scp a6minbib.bin root@192.168.1.1:/tmp
 
 ```
 . /lib/upgrade/platform.sh
-switch_layout boot; do_flash_failsafe_partition a6minbib "0:MIBIB
+switch_layout boot; do_flash_failsafe_partition a6minbib "0:MIBIB"
 ```
 
 拔电源重启路由器
