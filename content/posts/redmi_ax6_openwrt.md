@@ -21,7 +21,7 @@ draft: false
 * 目前教程也会比较麻烦，你旁边有**得有一台别的 openwrt 路由器**作为辅助
 
 * 固件不是特别稳定 Wi-Fi 因为驱动原因暂时比官方的要差不少，如果你是觉得你是新手可以再等等
-* 暂时还没刷会官方的教程（以后肯定会有）
+* 暂时还没刷回官方的教程（以后肯定会有）
 
 ## 准备
 
@@ -139,7 +139,7 @@ http://192.168.31.1/cgi-bin/luci/;stok=<STOK>/api/misystem/extendwifi_connect?ss
 
 <> 和 {} 均需要替换
 
-我的替换后如下（我的 Wi-Fi 没有密码，你的如果有秘密填上密码即可）
+我的替换后如下（我的 Wi-Fi 没有密码，你的如果有密码填上密码即可）
 
 ```
 http://192.168.31.1/cgi-bin/luci/;stok=b3ee3b3d1baa28c0b208a46a47c84a03/api/misystem/extendwifi_connect?ssid=OPENWRT_DEE_5G&password=
