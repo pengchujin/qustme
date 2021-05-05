@@ -75,21 +75,31 @@ scp fuckax3600 root@192.168.31.1:/tmp
 然后在小米 AX3600 上执行
 
 ```
+chmod +x /tmp/fuckax3600
 /tmp/fuckax3600 unlock
 ```
 
 系统会自动重启
 
+重新 SCP 上传一遍脚本（因为 tmp 重启会被清空）
+
+```
+scp fuckax3600 root@192.168.31.1:/tmp
+```
+
 SSH 重新连接上小米 AX3600 后，执行
 
 ```
+chmod +x /tmp/fuckax3600
 /tmp/fuckax3600 hack
 /tmp/fuckax3600 lock
 ```
 
-这会设置永久的 ssh、telnet、uart 权限，也会计算出默认的秘密，记得保存
+这会设置永久的 ssh、telnet、uart 权限，也会计算出**默认的秘密，记得保存**
 
 备注：如果升级后丢失 SSH 权限，你也可以 telnet 连接上 AX3600 后执行，即可恢复 SSH。
+
+telnet 192.168.31.1 （用户名是 root，秘密是刚才得出的密码）
 
 ```
 sed -i 's/channel=.*/channel="debug"/g' /etc/init.d/dropbear
