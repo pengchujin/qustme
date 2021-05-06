@@ -95,7 +95,7 @@ chmod +x /tmp/fuckax3600
 /tmp/fuckax3600 lock
 ```
 
-这会设置永久的 ssh、telnet、uart 权限，也会计算出**默认的秘密，记得保存**
+这会设置永久的 ssh、telnet、uart 权限，也会计算出**默认的密码，记得保存**
 
 备注：如果升级后丢失 SSH 权限，你也可以 telnet 连接上 AX3600 后执行，即可恢复 SSH。
 
@@ -114,9 +114,41 @@ SSH 连接上小米 AX3600 执行安装
 sh -c "$(curl -kfsSl https://cdn.jsdelivr.net/gh/juewuy/ShellClash@master/install.sh)" && source /etc/profile &> /dev/null
 ```
 
-安装完成后 clash 命令即可进行配置，Clash 后台可以通过 [http://clash.razord.top](http://clash.razord.top/) 或者 [https://yacd.haishan.me](https://yacd.haishan.me/) 或者[http://app.tossp.com](http://app.tossp.com/)  进行管理调配。
+![截屏2021-05-06 下午7.55.06](https://oss.qust.me/img/%E6%88%AA%E5%B1%8F2021-05-06%20%E4%B8%8B%E5%8D%887.55.06.jpg)
 
+选择 1 安装到 /etc，然后再选择 1 确认安装。
 
+![截屏2021-05-06 下午7.56.25](https://oss.qust.me/img/%E6%88%AA%E5%B1%8F2021-05-06%20%E4%B8%8B%E5%8D%887.56.25.jpg)
+
+安装好就能使用 clash 命令了 ，输入 clash 就能进入配置。这里选择 4 让局域网设备都能走代理（如果你清楚别的可以自行选择）。
+
+![截屏2021-05-06 下午7.59.53](https://oss.qust.me/img/%E6%88%AA%E5%B1%8F2021-05-06%20%E4%B8%8B%E5%8D%887.59.53.jpg)
+
+推荐选择不代理 UDP 也就是 1，然后安装 DashBoard 面板也就能网页直接控制了也就是 1 。
+
+![截屏2021-05-06 下午8.01.39](https://oss.qust.me/img/%E6%88%AA%E5%B1%8F2021-05-06%20%E4%B8%8B%E5%8D%888.01.39.jpg)
+
+推荐选择 Yacd 面板，界面很好看 选择 2，然后安装目录选择 1 即可。
+
+![截屏2021-05-06 下午8.05.20](https://oss.qust.me/img/%E6%88%AA%E5%B1%8F2021-05-06%20%E4%B8%8B%E5%8D%888.05.20.jpg)
+
+1 选择导入配置文件。如果你没有 Clash 的配置文件而是 v2ray、ss、trojan 的订阅链接（你的机场会提供），你可以再选择 1 进行「在线生成 Clash 配置文件」；如果有的话可以选择 2 直接导入配置文件。
+
+![截屏2021-05-06 下午8.07.27](https://oss.qust.me/img/%E6%88%AA%E5%B1%8F2021-05-06%20%E4%B8%8B%E5%8D%888.07.27.jpg)
+
+然后粘贴上你的订阅链接（url 链接），再选择 1 开始生成配置文件。生成配置文件后按 0 返回上层菜单即可。
+
+![截屏2021-05-06 下午8.09.41](https://oss.qust.me/img/%E6%88%AA%E5%B1%8F2021-05-06%20%E4%B8%8B%E5%8D%888.09.41.jpg)
+
+再按 1 选择立即开启 Clash  的服务即可。
+
+![截屏2021-05-06 下午8.10.26](https://oss.qust.me/img/%E6%88%AA%E5%B1%8F2021-05-06%20%E4%B8%8B%E5%8D%888.10.26.jpg)
+
+启动后你可以通过 http://192.168.31.1:9999/，进行节点的切换和规则的选择。当然你再按 4 选择开机启动也可以。
+
+ ![截屏2021-05-06 下午8.11.01](https://oss.qust.me/img/%E6%88%AA%E5%B1%8F2021-05-06%20%E4%B8%8B%E5%8D%888.11.01.jpg)
+
+这个时候应该就能科学上网了速度也应该不错。
 
 ## 总结
 
